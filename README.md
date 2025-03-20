@@ -19,7 +19,7 @@ The user selects options from dropdown menus to specify their preferences:
 - Python
 - FastAPI
 - MongoDB
-- LLM API integration (most probably pplx-api)
+- LLM API integration (most probably pplx-api or local)
 - Node.js
 - Redis (in the future, for caching)
 
